@@ -1,3 +1,4 @@
+h5py==2.10.0
 numpy==1.19.2
 shap==0.35.0
 tensorflow==2.1.0
